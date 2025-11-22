@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Photo Agent
+Comment=Find and manage duplicate photo files
+Exec=/usr/share/PhotoAgent/PhotoAgent.py
+Icon=dup2
+Terminal=false
+Type=Application
+Categories=Graphics;Utility;
+StartupNotify=true
+MimeType=image/jpeg;image/png;image/gif;
+Keywords=photo;duplicate;cleaner;finder;image;agent;

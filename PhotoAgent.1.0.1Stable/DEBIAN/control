@@ -1,0 +1,11 @@
+Package: photoagent
+Version: 1.0.1
+Section: graphics
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.6), python3-pyqt5, python3-pyqt5.qtsvg, libqt5svg5
+Maintainer: A. Serhat Kılıçoğlu <www.github.com/shampuan>
+Description: Duplicate Photo Finder and Cleaner
+ Photo Agent is a utility designed to scan local directories for duplicate image files 
+ using MD5 hashing and provides tools for safely deleting them to a disk-based 
+ "Fake Trash" directory. It features a modern, dark-themed PyQt5 GUI.
